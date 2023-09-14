@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Futura";
+    src: url('/Users/kevinnguyen/Library/Fonts (Removed)/03-16-2023 13_28_58 PDT/FuturaPTBold.otf');
+}  
+
+body {
+    margin: auto;
+    padding: 50px;
+    font-family: "Futura";
+    background: rgb(50, 50, 50);
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+header {
+    padding: 0px;
+    text-align: center;
+}
+
+h1 {
+    padding: 5px;
+    color: blanchedalmond;
+}
+
+a {
+    color: blanchedalmond;
+}
+
+h2, p {
+    color: blanchedalmond;
+}
+
+h3 {
+    color: blanchedalmond;
+    display: inline-block;
+    padding: 0px;
+}
+
+li {
+    color: blanchedalmond;
+    padding: 5px;
+    list-style-type: none;
+}
+
+img {
+    width: 300px;
+}
+
+a:link {
+    text-decoration: none;
+}
+  
+a:visited {
+    text-decoration: none;
+}
+  
+a:hover {
+    color: lime;
+    text-decoration: none;
+}
+  
+a:active {
+    text-decoration: none;
+}
+
+.menu {
+    margin: 25px;
+    color: blanchedalmond;
+}
+
+.sub_menu {
+    margin: 25px;
+    color: blanchedalmond;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
