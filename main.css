@@ -82,3 +82,7 @@ a:active {
     margin-right: auto;
     width: 50%;
 }
+
+object  {
+    background-color: white;
+}
