@@ -6,9 +6,9 @@
 body {
     margin: auto;
     padding: 50px;
-    font-family: "Futura";
-    letter-spacing: 2.5px;
-    background: rgb(42, 36, 36);
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: 10px;
+    background: rgb(7, 87, 241);
 }
 
 div {
@@ -17,7 +17,6 @@ div {
 
 header {
     padding: 0px;
-    background-color:rgb(7, 87, 241);
     text-align: center;
     border-radius: 5px;
 }
@@ -25,15 +24,15 @@ header {
 h1 {
     padding: 20px;
     font-size: 36px;
-    color: rgb(250, 241, 228);
+    color: whitesmoke;
 }
 
 a {
-    color: rgb(250, 241, 228);
+    color: whitesmoke;
 }
 
 h2, p {
-    color: rgb(250, 241, 228);
+    color: whitesmoke;
 }
 
 h3 {
@@ -61,7 +60,7 @@ a:visited {
 }
   
 a:hover {
-    color: rgb(200, 200, 200);
+    color: rgb(7, 87, 241);
     text-decoration: none;
 }
   
@@ -71,12 +70,12 @@ a:active {
 
 .menu {
     margin: 25px;
-    color: blanchedalmond;
+    color: whitesmoke;
 }
 
 .sub_menu {
     margin: 25px;
-    color: rgb(206, 222, 189);
+    color: whitesmoke;
 }
 
 .center {
