@@ -90,6 +90,11 @@ a:active {
     width: 50%;
 }
 
+.name {
+    padding: 70px 0;
+    text-align: center;
+}
+
 object  {
     background-color: white;
 }
@@ -97,4 +102,5 @@ object  {
 #bottom {
     position: absolute;
     bottom: 0;
+
 }
