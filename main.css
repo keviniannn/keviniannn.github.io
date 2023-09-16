@@ -91,8 +91,11 @@ a:active {
 }
 
 .name {
-    padding: 70px 0;
-    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 object  {
@@ -100,7 +103,9 @@ object  {
 }
 
 #bottom {
+    margin: 0;
     position: absolute;
-    bottom: 0;
-
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
