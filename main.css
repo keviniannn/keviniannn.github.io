@@ -93,3 +93,8 @@ a:active {
 object  {
     background-color: white;
 }
+
+#bottom {
+    position: absolute;
+    bottom: 0;
+}
