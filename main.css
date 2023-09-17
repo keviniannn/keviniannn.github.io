@@ -1,13 +1,13 @@
 @font-face {
-    font-family: "Futura";
-    src: url('/Users/kevinnguyen/Library/Fonts (Removed)/03-16-2023 13_28_58 PDT/FuturaPTBold.otf');
+    font-family: "Heavitas";
+    src: url("heavitas/Heavitas.ttf");
 }  
 
 body {
     margin: auto;
     padding: 50px;
-    font-family:Arial, Helvetica, sans-serif;
-    background: rgb(7, 87, 241);
+    font-family: "Heavitas", Arial, sans-serif;
+    background: whitesmoke;
 }
 
 div {
@@ -24,21 +24,21 @@ h1 {
     padding: 20px;
     font-size: 36px;
     letter-spacing: 25px;
-    color: whitesmoke;
+    color: black;
 }
 
 a {
-    color: whitesmoke;
+    color: black;
 }
 
 h2, p {
     margin: 25px;
-    color: whitesmoke;
+    color: black;
     letter-spacing: 10px;
 }
 
 h3 {
-    color: whitesmoke;
+    color: black;
     display: inline-block;
     padding: 0px;
     letter-spacing: 2px;
@@ -73,13 +73,13 @@ a:active {
 
 .menu {
     margin: 25px;
-    color: whitesmoke;
+    color: black;
     letter-spacing: 10px;
 }
 
 .sub_menu {
     margin: 25px;
-    color: whitesmoke;
+    color: black;
     letter-spacing: 10px;
 }
 
