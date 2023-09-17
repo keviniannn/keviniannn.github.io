@@ -23,34 +23,25 @@ h1 {
     padding: 25px;
     font-size: 36px;
     letter-spacing: 25px;
-    color: black;
+    color: rgb(42, 36, 36);
 }
 
 a {
-    color: black;
+    color: rgb(42, 36, 36);
 }
 
 h2, p {
     margin: 25px;
-    color: black;
+    color: rgb(42, 36, 36);
     letter-spacing: 10px;
 }
 
 h3 {
-    color: black;
+    color: rgb(42, 36, 36);
     display: inline-block;
     padding: 0px;
     letter-spacing: 2px;
-}
-
-li {
-    color: slategray;
-    padding: 5px;
-    list-style-type: none;
-}
-
-img {
-    width: 300px;
+    line-height: 25px;
 }
 
 a:link {
@@ -62,7 +53,7 @@ a:visited {
 }
   
 a:hover {
-    color: rgb(63, 134, 253);
+    color: rgb(7, 87, 241);
     text-decoration: none;
 }
   
@@ -72,13 +63,13 @@ a:active {
 
 .menu {
     margin: 25px;
-    color: black;
+    color: rgb(42, 36, 36);
     letter-spacing: 10px;
 }
 
 .sub_menu {
     margin: 25px;
-    color: black;
+    color: rgb(42, 36, 36);
     letter-spacing: 10px;
 }
 
