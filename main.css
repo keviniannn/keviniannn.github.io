@@ -28,6 +28,7 @@ h1 {
 
 a {
     color: black;
+    line-height: 30px;
 }
 
 h2, p {
@@ -47,6 +48,10 @@ h3 {
 img {
     margin: 10px;
     border: 5px solid black;
+}
+
+object  {
+    background-color: white;
 }
 
 a:link {
@@ -93,11 +98,7 @@ a:active {
     padding: 25px;
 }
 
-object  {
-    background-color: white;
-}
-
-#bottom {
+.bottom {
     padding: 25px;
     margin: 0;
     position: absolute;
